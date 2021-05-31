@@ -63,6 +63,7 @@ public class CasApplication {
         MachineType type = inlineService.getMachineType();
         List<RfidEntity> rfidEntities = inlineService.getOwnerRfid(type);
         switch (type){
+                //菜品信息
             case DISH_LINE:
                 /*plcGrpcRegister.start();
                 rfidGrpcRegister.start();
@@ -70,14 +71,17 @@ public class CasApplication {
 //               this.collageService.initCollageInfo();
                 collageService.start();
                 break;
+                //锅底信息
             case POT_LINE:
                 //plcGrpcRegister.start();
                 break;
+                //备菜线
             case STOCK_LINE:
                 rfidGrpcRegister.start();
                 rfidMessageSender.initial(rfidEntities);
                 prepareDishService.startScale();
                 break;
+             //切换成提升机
             case ELEVATOR_LINE:
                 //rfidGrpcRegister.start();
                 //rfidMessageSender.initial(rfidEntities);
