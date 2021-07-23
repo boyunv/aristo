@@ -1,0 +1,7 @@
+#  2009年
+
+As  is  symbolically illustrated in the cartoon,a large  number of people are getting on line within a stretching  spider web,either to entertain themselves or  to meet the needs of work.  It seems rather ironic  to present people separated by spider  web  when they  attempt  to  communication. Undoubtedly,spider  web  serves  as a symbol of Internet, both connecting them and isolating them from each other.
+
+The impressive metaphorical portrayal subtly  reveals the duality of the relationship between people and Internet. On the one hand, there is no denying that the Internet is currently one of efficient media  for interpersonal communication. As a collage student,I get on line every day to discuss  news  with others on BBS. to study  English by registering  for  web courses, to chat freely  with my friends   through  MSN  Messenger.  But  on the other hand,a good many of people admit that they are too indulged in the Internet to maintain face-to-face contact with their friends and colleagues;Once having indulged in fictitious world, they feel reluctant  to approach others and to concentrate on real  life. That's why some people have lost the skill of  direct contact and become alienated from each others.
+
+Hence,it's necessary  for us to use Internet in the reasonable  way and restrain from overindulges. After all,the Internet was invented to connect you and me ,and to bring conveniences our life rather than setting barriers  to keep people beyond reach.
